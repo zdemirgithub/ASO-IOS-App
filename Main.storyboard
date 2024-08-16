@@ -1,0 +1,6 @@
+Main.storyboard:
+- Add a UILabel for the rating.
+- Add a UIStepper for users to select a rating from 0 to 5.
+- Add a UITextField for users to enter a review.
+- Add a UIButton to submit the review.
+- Connect the UILabel, UITextField, UIStepper, and UIButton to the ViewController.
